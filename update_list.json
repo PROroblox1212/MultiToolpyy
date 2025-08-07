@@ -2,7 +2,5 @@
   "files": {
     "multitool.py": "https://raw.githubusercontent.com/PROroblox1212/MultiToolpyy/main/multitool.py",
     "outils/mdp_manager.py": "https://raw.githubusercontent.com/PROroblox1212/MultiToolpyy/main/outils/mdp_manager.py",
-    "outils/mon_nouvel_outil.py": "https://raw.githubusercontent.com/PROroblox1212/MultiToolpyy/main/outils/mon_nouvel_outil.py",
-    "config/settings.json": "https://raw.githubusercontent.com/PROroblox1212/MultiToolpyy/main/config/settings.json"
   }
 }
